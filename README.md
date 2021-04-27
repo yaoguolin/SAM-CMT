@@ -6,7 +6,7 @@ Folder *Functions* contains SAM-CMT the main model funtion along with all other 
 
 Folder *Helper* contains helper scripts that are directly referred by SAM-CMT model.
 
-Folder *Subnational* contains subnational analysis scripts.
+Folder *Subnational* contains subnational analysis scripts. Please follow the instructions on NsurNfer Repo.
 
 All corresponding data are available at https://drive.google.com/drive/folders/1eXZq__1G4XCgFF1q4j8Rr-px1XTNutrf?usp=sharing.
 
